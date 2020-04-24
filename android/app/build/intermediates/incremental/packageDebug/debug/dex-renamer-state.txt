@@ -1,0 +1,7 @@
+#Wed Mar 06 10:23:11 CST 2019
+base.0=D\:\\crm\\crmApp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\crm\\crmApp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes2.dex
+base.1=D\:\\crm\\crmApp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+file.0=D\:\\crm\\crmApp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

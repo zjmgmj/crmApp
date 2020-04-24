@@ -1,0 +1,87 @@
+-injars 'D:\crm\crmApp\node_modules\react-native-baidu-map\android\libs\BaiduLBS_Android.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\jars\libs\infer-annotations-4.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\7c5e0554b36794333434ce69fe725a24\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-gif-1.3.0.aar\36eafecf95589e643181d9ef559c7dfb\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4725b81256643ca9c47504cf83d2e745\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.6.4.aar\f6bfab7b00590603cc91fc9f80dbbca3\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\avoscloud-sdk\v4.6.4\794761923b276db14c9630afabf551faa82d5915\avoscloud-sdk-v4.6.4.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\230f5f100d72fd0686c4731cc7ba3c78\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-base-1.3.0.aar\837d759359ad6f07a9b90a31dc3f431f\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\bc0b0bceb26fbaf27835518201aef272\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\8b76927b1c147da3ac27aeea72a41c79\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\88088b05335412dd7dbeb726cf1e2240\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\33dc8fe89eab3dd990b8c61d97788dad\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.37\748cbf698e77f2df5061500a79a22e1f479dfec2\fastjson-1.2.37.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\Java-WebSocket\1.3.2-leancloud\169fd461930335df8099bcbac99c0f206912ced1\Java-WebSocket-1.3.2-leancloud.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\3.4.0\b32aba0cbe737a4ca953f71688725972e3ee927c\protobuf-java-3.4.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\9836139c60e1fab3cfd09f3e43adccf8\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7faac56813bcca14e1fb9cb6b8cf9c8c\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\aa699c01fc2afdf6682182b8f28c65c9\jars\classes.jar'
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar'
+-injars 'D:\crm\crmApp\node_modules\react-native-sound\android\build\intermediates\intermediate-jars\debug\classes.jar'
+-injars 'D:\crm\crmApp\node_modules\react-native-splash-screen\android\build\intermediates\intermediate-jars\debug\classes.jar'
+-injars 'D:\crm\crmApp\node_modules\react-native-extra-dimensions-android\android\build\intermediates\intermediate-jars\debug\classes.jar'
+-injars 'D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\intermediate-jars\debug\classes.jar'
+-injars 'D:\crm\crmApp\node_modules\react-native-picker\android\build\intermediates\intermediate-jars\debug\classes.jar'
+-injars 'D:\crm\crmApp\android\app\build\intermediates\classes\debug'
+-outjars 'D:\crm\crmApp\android\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'D:\crm\android-sdk\build-tools\26.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\crm\crmApp\android\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at D:\crm\crmApp\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:31
+-keep class zhd.xy.crm.MainApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

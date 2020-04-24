@@ -1,0 +1,51 @@
+{
+  "name": "crmobile",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "create-react-class": "^15.6.3",
+    "jest-expo": "~27.0.0",
+    "pug": "^2.0.3",
+    "react-native-scripts": "1.14.0",
+    "react-native-vector-icons": "^5.0.0",
+    "react-test-renderer": "16.3.1",
+    "stylus": "^0.54.5",
+    "vue-native-custom-transformer-plugin": "^0.2.1",
+    "vue-native-scripts": "0.0.14"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^27.0.1",
+    "native-echarts": "^0.4.0",
+    "native-base": "^2.7.2",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "sha1": "^1.1.1",
+    "vue-native-core": "0.0.8",
+    "vue-native-helper": "0.0.9",
+    "vue-native-router": "0.0.1-alpha.3",
+    "vuex": "^3.0.1"
+  }
+}
+
+{
+  "presets": ["babel-preset-expo"],
+  "env": {
+    "development": {
+      "plugins": ["transform-react-jsx-source"]
+    }
+  }
+}
+
+
+rm -rf ios & rm -rf android/ && npm i && npm run eject

@@ -1,0 +1,53 @@
+{
+  "name": "crmobile",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.0",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "create-react-class": "^15.6.3",
+    "jest": "^23.5.0",
+    "jest-react-native": "^18.0.0",
+    "pug": "^2.0.3",
+    "react-native": "^0.52.3",
+    "react-test-renderer": "16.3.1",
+    "stylus": "^0.54.5",
+    "vue-native-custom-transformer-plugin": "^0.2.2",
+    "vue-native-scripts": "0.0.14"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "leancloud-installation": "^2.0.1",
+    "leancloud-storage": "^3.10.0",
+    "native-base": "^2.7.2",
+    "native-echarts": "^0.4.0",
+    "react": "16.3.1",
+    "react-devtools": "^3.3.2",
+    "react-native-baidu-map": "^0.6.0",
+    "react-native-communications": "^2.2.1",
+    "react-native-extra-dimensions-android": "^0.21.0",
+    "react-native-menu": "^0.23.0",
+    "react-native-modal": "^6.5.0",
+    "react-native-picker": "^4.3.7",
+    "react-native-root-siblings": "^3.1.0",
+    "react-native-sound": "^0.10.9",
+    "react-native-splash-screen": "^3.1.1",
+    "react-native-storage": "^0.2.2",
+    "react-native-vector-icons": "^5.0.0",
+    "redux": "^4.0.0",
+    "save": "^2.3.2",
+    "sha1": "^1.1.1",
+    "vue-native-core": "0.0.8",
+    "vue-native-helper": "0.0.9",
+    "vue-native-router": "0.0.1-alpha.3",
+    "vuex": "^3.0.1"
+  }
+}

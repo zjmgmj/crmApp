@@ -1,0 +1,332 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12
+MERGED from [:react-native-sound] D:\crm\crmApp\node_modules\react-native-sound\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-splash-screen] D:\crm\crmApp\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-extra-dimensions-android] D:\crm\crmApp\node_modules\react-native-extra-dimensions-android\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-picker] D:\crm\crmApp\node_modules\react-native-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.52.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\7c5e0554b36794333434ce69fe725a24\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-gif-1.3.0.aar\36eafecf95589e643181d9ef559c7dfb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4725b81256643ca9c47504cf83d2e745\AndroidManifest.xml:17:1-22:12
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.6.4.aar\f6bfab7b00590603cc91fc9f80dbbca3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\230f5f100d72fd0686c4731cc7ba3c78\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-base-1.3.0.aar\837d759359ad6f07a9b90a31dc3f431f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\bc0b0bceb26fbaf27835518201aef272\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\8b76927b1c147da3ac27aeea72a41c79\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\88088b05335412dd7dbeb726cf1e2240\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\33dc8fe89eab3dd990b8c61d97788dad\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\9836139c60e1fab3cfd09f3e43adccf8\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7faac56813bcca14e1fb9cb6b8cf9c8c\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\aa699c01fc2afdf6682182b8f28c65c9\AndroidManifest.xml:1:1-3:12
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12
+	package
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:2:11-31
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [:react-native-picker] D:\crm\crmApp\node_modules\react-native-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-78
+MERGED from [:react-native-picker] D:\crm\crmApp\node_modules\react-native-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.52.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.52.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:10:5-11:86
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:11:13-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:13:5-92
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:15:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:24:22-72
+application
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:26:5-62:19
+MERGED from [:react-native-splash-screen] D:\crm\crmApp\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] D:\crm\crmApp\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.react:react-native:0.52.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.52.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7faac56813bcca14e1fb9cb6b8cf9c8c\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7faac56813bcca14e1fb9cb6b8cf9c8c\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\aa699c01fc2afdf6682182b8f28c65c9\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\aa699c01fc2afdf6682182b8f28c65c9\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:28:13-45
+	android:icon
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:29:13-47
+	android:allowBackup
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:30:13-40
+	android:theme
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:27:13-54
+activity#zhd.xy.crm.MainActivity
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:34:17-49
+	android:windowSoftInputMode
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:36:17-59
+	android:configChanges
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:35:17-87
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:33:17-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:42:9-85
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:42:19-83
+meta-data#android.max_aspect
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:44:9-75
+	android:value
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:44:54-73
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:44:20-53
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:46:9-110
+	android:value
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:46:60-108
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:46:20-59
+service#com.avos.avoscloud.PushService
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:48:9-65
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:48:18-63
+activity#zhd.xy.crm.avpush.AVPushHandlerActivity
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:49:9-65
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:49:19-63
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:50:9-56:20
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:50:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:52:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:53:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:54:17-78
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:54:25-76
+receiver#zhd.xy.crm.avpush.AVPushCstmReceiver
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:57:9-61:20
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:57:19-70
+intent-filter#zhd.xy.crm.avpush
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:58:13-60:29
+action#zhd.xy.crm.avpush
+ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:59:17-59
+	android:name
+		ADDED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:59:25-57
+uses-sdk
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-sound] D:\crm\crmApp\node_modules\react-native-sound\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-sound] D:\crm\crmApp\node_modules\react-native-sound\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-splash-screen] D:\crm\crmApp\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] D:\crm\crmApp\node_modules\react-native-splash-screen\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-extra-dimensions-android] D:\crm\crmApp\node_modules\react-native-extra-dimensions-android\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-extra-dimensions-android] D:\crm\crmApp\node_modules\react-native-extra-dimensions-android\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-picker] D:\crm\crmApp\node_modules\react-native-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-picker] D:\crm\crmApp\node_modules\react-native-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.52.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.52.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\react-native-0.52.3.aar\8cdadbcb2d5442c208dfd048168ffae4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\7c5e0554b36794333434ce69fe725a24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\7c5e0554b36794333434ce69fe725a24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-gif-1.3.0.aar\36eafecf95589e643181d9ef559c7dfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-gif-1.3.0.aar\36eafecf95589e643181d9ef559c7dfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4725b81256643ca9c47504cf83d2e745\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4725b81256643ca9c47504cf83d2e745\AndroidManifest.xml:20:5-43
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.6.4.aar\f6bfab7b00590603cc91fc9f80dbbca3\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.6.4.aar\f6bfab7b00590603cc91fc9f80dbbca3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\230f5f100d72fd0686c4731cc7ba3c78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\230f5f100d72fd0686c4731cc7ba3c78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-base-1.3.0.aar\837d759359ad6f07a9b90a31dc3f431f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-base-1.3.0.aar\837d759359ad6f07a9b90a31dc3f431f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\bc0b0bceb26fbaf27835518201aef272\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\bc0b0bceb26fbaf27835518201aef272\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\8b76927b1c147da3ac27aeea72a41c79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\8b76927b1c147da3ac27aeea72a41c79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\88088b05335412dd7dbeb726cf1e2240\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\88088b05335412dd7dbeb726cf1e2240\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\33dc8fe89eab3dd990b8c61d97788dad\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\33dc8fe89eab3dd990b8c61d97788dad\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\9836139c60e1fab3cfd09f3e43adccf8\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\9836139c60e1fab3cfd09f3e43adccf8\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7faac56813bcca14e1fb9cb6b8cf9c8c\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\7faac56813bcca14e1fb9cb6b8cf9c8c\AndroidManifest.xml:2:3-70
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml
+service#com.baidu.location.f
+ADDED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-16:19
+	android:process
+		ADDED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-38
+	android:enabled
+		ADDED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-35
+	android:name
+		ADDED from [:react-native-baidu-map] D:\crm\crmApp\node_modules\react-native-baidu-map\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-48
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d4c987ff13f54f27f37bc00c3e1cbfbd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\41d48f991015c0aab9308a151e172ab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2b6ded39eb78cb924de845c49b1b00fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1a1cb2821efcc57bdcf98a2586f4483c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\33c6e38aee94daf2379de0f34ebdfaf7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8889a878b974df8868e8459cac9a18a3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\13b4fc9dc4c2ee0f69ff831122b3228c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b46263de33719711dadeb12330df3272\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\92a020aeed3c573c5cc371006409770f\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\65f7128b2c53239c2ae031dafac6157e\AndroidManifest.xml:26:13-58
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\crm\crmApp\android\app\src\main\AndroidManifest.xml:1:1-64:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
